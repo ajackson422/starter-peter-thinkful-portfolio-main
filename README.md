@@ -1,2 +1,1 @@
-# starter-peter-thinkful-portfolio-main
-Web Assessment with Pete Thinkful 
+# starter-pete-thinkful-portfolio
